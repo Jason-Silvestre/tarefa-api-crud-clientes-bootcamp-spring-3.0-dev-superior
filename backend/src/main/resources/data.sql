@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcin Patrzalek', 69833396062, 30.000, TIMESTAMP WITH TIME ZONE '2000-10-06T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jon Gomm', 71544579020, 15.000, TIMESTAMP WITH TIME ZONE '1977-07-11T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Mark Tremonti', 41695027019, 300.000, TIMESTAMP WITH TIME ZONE '1974-04-18T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Mauro Henrique', 52366948093, 30.000, TIMESTAMP WITH TIME ZONE '1982-11-10T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Tatiana Shmayluk', 43451022001, 200.000, TIMESTAMP WITH TIME ZONE '1987-03-15T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Dave Grohl', 65502439046, 400.000,TIMESTAMP WITH TIME ZONE '1969-01-14T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Stjepan Hauser', 26636897007, 15.000,  TIMESTAMP WITH TIME ZONE '1986-06-15T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luka Sulic', 36118474028, 50.000,TIMESTAMP WITH TIME ZONE '1987-08-25T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Patrick Laird', 64090065003, 12.000, TIMESTAMP WITH TIME ZONE '1985-01-31T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ivan Trevino', 00760052085, 8.000, TIMESTAMP WITH TIME ZONE '1983-07-14T10:00:00Z', 4);
